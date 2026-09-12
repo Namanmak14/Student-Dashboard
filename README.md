@@ -63,7 +63,7 @@ If Java is not installed, download it from [Oracle](https://www.oracle.com/java/
 ### Step 1: Clone or Download the Repository
 
 ```bash
-git clone https://github.com/your-username/student-dashboard.git
+git clone https://github.com/Namanmak14/student-dashboard.git
 cd student-dashboard
 ```
 
